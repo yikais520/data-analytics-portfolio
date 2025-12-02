@@ -15,15 +15,7 @@ Outcome:
 Churn improved from nearly 90% at Month 3 to below the company average, and the new metrics were adopted across multiple programs.
 Full Case Study → ./case-studies/case_study_churn_dashboard.md
 
-2. [Your Second Case Study Title]
-
-Skills: (Add tools/methods)
-Summary:
-2–3 sentence description of the problem and what you built.
-Outcome:
-1–2 sentences on measurable or qualitative impact.
-Full Case Study → ./case-studies/case_study_xxxx.md
-(Send me your second project and I’ll format it for you.)
+2. Developing...
 
 📂 Public Data Projects
 
